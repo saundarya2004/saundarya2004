@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Java Full Stack Developer | Computer Engineering Graduate<br>Skilled in Java, Spring Boot, SQL, REST APIs & React.js.<br>Currently building projects and strengthening DSA for software development roles.
 
 
