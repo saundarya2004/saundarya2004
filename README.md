@@ -7,6 +7,7 @@ I’m a **Computer Engineering graduate** focused on building practical, scalabl
 I enjoy turning requirements into functional applications, understanding how backend systems work, and continuously improving my problem-solving skills through **DSA and hands-on development**.
 
 🎯 **Currently looking for:** Entry-Level Software Engineer / Java Developer / Java Full Stack Developer opportunities.
+Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saundarya-rasal-compengg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saundaryarasal@gmail.com)
 
 ---
 
