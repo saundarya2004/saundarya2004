@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Soundarya Rasal
+# 👋 Hi, I'm Saundarya Rasal
 
 ### 💻 Java Full Stack Developer | Computer Engineering Graduate
 
