@@ -1,232 +1,193 @@
-# 👋 Hi, I'm Saundarya Rasal
+Hi 👋, I'm Saundarya Rasal
 
-### 💻 Java Full Stack Developer | Computer Engineering Graduate
+Java Full Stack Developer | Computer Engineering Graduate
 
-I’m a **Computer Engineering graduate** focused on building practical, scalable web applications using **Java, Spring Boot, REST APIs, SQL, and React.js**.
+💻 I’m a Computer Engineering graduate focused on building Java-based full-stack applications and strengthening my problem-solving skills.
 
-I enjoy turning requirements into functional applications, understanding how backend systems work, and continuously improving my problem-solving skills through **DSA and hands-on development**.
+🌱 Currently learning and working with Java, Spring Boot, REST APIs, SQL, JavaScript and React.js.
 
-🎯 **Currently looking for:** Entry-Level Software Engineer / Java Developer / Java Full Stack Developer opportunities.
+🚀 I enjoy building practical projects that combine backend development, databases and modern frontend technologies.
 
-
-Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saundarya-rasal-compengg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saundaryarasal@gmail.com)
-
----
-
-## 🚀 About Me
-
-* 🎓 Computer Engineering Graduate from Mumbai University
-* ☕ Strong focus on **Java & Object-Oriented Programming**
-* 🌱 Building backend applications with **Spring Boot**
-* 🔗 Developing and consuming **REST APIs**
-* 🗄️ Working with **MySQL, SQL, JPA & Hibernate**
-* ⚛️ Building frontend interfaces using **React.js & JavaScript**
-* 🧠 Strengthening **Data Structures & Algorithms**
-* 🔐 Exploring authentication and authorization using **JWT & Spring Security**
-* 🛠️ Interested in writing clean, maintainable and production-oriented code
-* 💼 Open to **Software Development / Java Full Stack opportunities**
+🎯 Currently preparing for Java Developer / Java Full Stack Developer / Software Engineer opportunities.
 
 ---
 
-## 🛠️ Technical Skills
+👩‍💻 About Me
 
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### Programming & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+- 🎓 Computer Engineering Graduate from Mumbai University
+- ☕ Focused on Java & Spring Boot
+- 🌐 Learning and building applications with React.js
+- 🗄️ Working with MySQL & SQL
+- 🧠 Strengthening DSA & problem-solving
+- 🔧 Familiar with Git, GitHub & Postman
+- 🚀 Currently building and improving full-stack projects
+- 📍 Based in Maharashtra, India
 
 ---
 
-# 📌 Featured Project
+🔭 Currently Working On
 
-## 🚇 MetroLine — Metro Ticket Booking & Management System
+🚇 MetroLine — Metro Ticket Booking & Management System
 
-A full-stack web application designed to simulate a metro ticket booking and management platform.
+A full-stack web application built using:
 
-### 🔧 Tech Stack
+Frontend: React.js, React Router, Axios
+Backend: Java, Spring Boot
+Database: MySQL, Spring Data JPA, Hibernate
+Security: JWT Authentication & Role-Based Authorization
 
-**Frontend:** React.js, JavaScript, React Router, Axios
-**Backend:** Java, Spring Boot, Spring Data JPA, Hibernate
-**Database:** MySQL
-**Security:** JWT Authentication & Role-Based Authorization
+The application includes:
 
-### ✨ Key Features
-
-* 👤 User registration and authentication
-* 🔐 JWT-based authentication
-* 👥 Role-based access for **Users and Admins**
-* 🚉 Search routes between metro stations
-* 📍 Display route stops, distance, travel time and fare
-* 🎫 Book metro tickets
-* 📋 View booking history
-* ❌ Cancel bookings
-* 👨‍💼 Admin management functionality
-* 💰 Dynamic fare calculation based on route information
-* 🔄 RESTful API architecture
-* 🗃️ Database persistence using JPA/Hibernate
-
-### 🏗️ Architecture
-
-```text
-React.js Frontend
-        ↓
-    REST APIs
-        ↓
-Spring Boot Backend
-        ↓
-Service Layer
-        ↓
-Repository Layer
-        ↓
-MySQL Database
-```
-
-🔗 **Repository:** [MetroLine](https://github.com/saundarya2004/MetroLine)
+- 🔐 User authentication and authorization
+- 🚉 Station and route management
+- 🔎 Route search between stations
+- 🎫 Ticket booking and cancellation
+- 📋 Booking history
+- 👤 User management
+- 🛠️ Admin functionality
+- 💰 Fare calculation
+- 📊 Booking and passenger-related data
 
 ---
 
-# 🧠 Problem Solving & DSA
+🛠️ Languages & Tools
 
-Currently strengthening my problem-solving skills with:
+Programming Languages
 
-* Arrays & Strings
-* HashMap & HashSet
-* Two Pointers
-* Sliding Window
-* Sorting & Searching
-* Binary Search
-* Linked Lists
-* Stack & Queue
-* Trees
-* Heaps
-* Graphs
-* Dynamic Programming
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+</p>Backend
 
-I focus on understanding **time and space complexity** and writing efficient solutions rather than only solving problems mechanically.
-
----
-
-# 📚 Currently Learning
-
-```text
-Java
-  ├── OOP & Collections
-  ├── Exception Handling
-  ├── Multithreading
-  └── Java 8+
-
-Spring Boot
-  ├── REST APIs
-  ├── Spring Data JPA
-  ├── Hibernate
-  ├── Validation
-  ├── Exception Handling
-  └── Spring Security & JWT
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="45"/>
+</p>Java • Spring Boot • Spring MVC • Spring Data JPA • Hibernate • REST APIs • JWT
 
 Frontend
-  ├── JavaScript
-  ├── React.js
-  ├── React Router
-  └── API Integration
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+</p>React.js • JavaScript • HTML5 • CSS3 • React Router • Axios
 
 Database
-  ├── SQL
-  ├── MySQL
-  ├── Joins
-  ├── Subqueries
-  └── Query Optimization
 
-DSA
-  └── Problem Solving & Interview Preparation
-```
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>MySQL • SQL • Joins • Subqueries • Aggregations • CRUD
 
----
+Tools
 
-# 🏆 Experience & Learning
-
-### 📊 Data Analytics & Cloud Computing — TNS India Foundation
-
-Worked with:
-
-* Excel data cleaning and analysis
-* MySQL queries, joins and aggregations
-* Power BI dashboards and reports
-* Data-driven reporting
-
-### 💻 Java & Python Training — Ingenious Technohub
-
-Worked on programming fundamentals and developed a **Python-based Virtual AI Voice Assistant** as a project.
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" width="45"/>
+</p>Git • GitHub • Postman • VS Code • IntelliJ IDEA
 
 ---
 
-# 🎯 Career Goal
+📚 Core Skills
 
-I am looking to start my career as a:
-
-**Java Developer | Java Full Stack Developer | Software Engineer**
-
-I’m particularly interested in opportunities where I can work on real-world software systems, backend development, REST APIs, databases and full-stack applications while continuously improving my engineering skills.
+- ☕ Java
+- 🌱 Spring Boot
+- 🔗 REST API Development
+- 🗄️ SQL & MySQL
+- 🧩 Spring Data JPA & Hibernate
+- 🔐 JWT Authentication
+- ⚛️ React.js
+- 🌐 JavaScript
+- 🧠 Data Structures & Algorithms
+- 🔧 Git & GitHub
+- 📮 API Testing with Postman
 
 ---
 
-# 📊 GitHub Analytics
+🚀 Featured Projects
+
+🚇 MetroLine
+
+Metro Ticket Booking & Management System
+
+Java + Spring Boot + React.js + MySQL + JPA/Hibernate
+
+A full-stack application for searching metro routes, booking tickets, managing bookings and handling user/admin operations.
+
+🔗 "View Project" (https://github.com/saundarya2004/MetroLine)
+
+---
+
+🤟 Sign Language Recognition System
+
+Python + OpenCV + MediaPipe + TensorFlow
+
+A computer-vision based system that recognizes hand gestures in real time and converts them into text.
+
+Key technologies:
+
+- Python
+- OpenCV
+- MediaPipe
+- TensorFlow
+- Machine Learning
+- Computer Vision
+
+---
+
+🧠 DSA & Problem Solving
+
+Currently strengthening problem-solving skills through:
+
+- Arrays
+- Strings
+- HashMap
+- Two Pointers
+- Sliding Window
+- Sorting
+- Binary Search
+- Linked List
+- Stack & Queue
+- Trees
+- Heap
+- Graphs
+- Dynamic Programming
+
+---
+
+📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=saundarya2004&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=saundarya2004&theme=dark&hide_border=true" height="170"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=saundarya2004&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saundarya2004&layout=compact&theme=tokyonight" height="170"/>
+</p>---
+
+🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=saundarya2004&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="170"/>
-</p>
+  <img src="https://streak-stats.demolab.com?user=saundarya2004&theme=tokyonight" />
+</p>---
 
----
+🌐 Connect With Me
 
-# 📫 Let's Connect
-
-<p align="left">
-
+<p>
 <a href="https://linkedin.com/in/saundarya-rasal-compengg">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:saundaryarasal@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/saundarya2004">
+</a><a href="https://github.com/saundarya2004">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>---
 
-</p>
+🎯 Career Focus
+
+I'm actively looking for opportunities as a:
+
+Java Developer | Java Full Stack Developer | Software Engineer
+
+Interested in working on backend systems, full-stack applications, REST APIs, databases and scalable software solutions.
 
 ---
 
-### 💡 *Build. Learn. Solve. Improve.*
-
-**Thanks for visiting my profile! 🚀**
-
+💡 "Build. Learn. Solve. Repeat."
