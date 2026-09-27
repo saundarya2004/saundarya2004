@@ -1,8 +1,10 @@
-Hi 👋, I'm Saundarya Rasal
+<h1 align="center">Hi 👋, I'm Saundarya</h1>
 
-Java Full Stack Developer | Computer Engineering Graduate
-<img align="right" alt="Coding Girl" width="400"
-src="YOUR_GIRL_CODING_GIF_URL">
+<h3 align="center">Java Full Stack Developer | Computer Engineering Graduate</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
+</p>
 
 
 💻 I’m a Computer Engineering graduate focused on building Java-based full-stack applications and strengthening my problem-solving skills.
