@@ -1,6 +1,9 @@
 Hi 👋, I'm Saundarya Rasal
 
 Java Full Stack Developer | Computer Engineering Graduate
+<img align="right" alt="Coding Girl" width="400"
+src="YOUR_GIRL_CODING_GIF_URL">
+
 
 💻 I’m a Computer Engineering graduate focused on building Java-based full-stack applications and strengthening my problem-solving skills.
 
